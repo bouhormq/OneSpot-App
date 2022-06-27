@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "414345920391",
+    "project_id": "onespotapp-45841",
+    "storage_bucket": "onespotapp-45841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414345920391:android:3d40edcf91839596c35d22",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_admin_tut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414345920391-du9k4dacovq09q49q6dgqsqnp3vdf4fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3H7O2w-SWzKArgZ4ZzsY00wl8JNh5oKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414345920391-du9k4dacovq09q49q6dgqsqnp3vdf4fm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414345920391-30mh62kbsqv51s1v8biu4ugsf6ecq2cf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAdminTut"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
